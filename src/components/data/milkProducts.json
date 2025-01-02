@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Buffallo Milk",
+    "telName": "(గేదె పాలు)",
+    "oldprice": 50,
+    "price": 40,
+    "quantity": "500ml",
+    "image": "/images/buffalloMilk.png"
+  },
+  {
+    "name": "Cow Milk",
+    "telName": "(ఆవు పాలు)",
+    "oldprice": 45,
+    "price": 35,
+    "quantity": "500ml",
+    "image": "/images/CowMilk.png"
+  },
+  {
+    "name": "A2 Milk",
+    "telName": "(A2 పాలు)",
+    "oldprice": 80,
+    "price": 65,
+    "quantity": "500ml",
+    "image": "/images/A2Milk.png"
+  },
+  {
+    "name": "A2 Milk[Desi Gir]",
+    "telName": "(A2 దేశీయ గిర్ ఆవు పాలు)",
+    "oldprice": 75,
+    "price": 65,
+    "quantity": "500ml",
+    "image": "/images/A2MilkDesiGir.png"
+  }
+]

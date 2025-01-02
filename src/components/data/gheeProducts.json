@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Buffallo Ghee",
+    "telName": "(గేదె నెయ్యి)",
+    "oldprice": 800,
+    "price": 600,
+    "quantity": "500gm",
+    "image": "/images/buffalloGhee.png"
+  },
+  {
+    "name": "Cow Ghee",
+    "telName": "(ఆవు నెయ్యి)",
+    "oldprice": 900,
+    "price": 750,
+    "quantity": "500gm",
+    "image": "/images/CowGhee.png"
+  },
+  {
+    "name": "A2 Gir Cow Ghee",
+    "telName": "(A2  దేశీయ గిర్ ఆవు నెయ్యి )",
+    "oldprice": 1200,
+    "price": 1000,
+    "quantity": "500gm",
+    "image": "/images/A2DesiCowGhee.png"
+  }
+]
